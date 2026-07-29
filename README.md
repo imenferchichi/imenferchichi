@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**imenferchichi/imenferchichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 # Hi, I'm Imen Ferchichi 👋
@@ -230,4 +226,3 @@ I'm actively looking for opportunities in **Data Engineering**, **Software Devel
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
